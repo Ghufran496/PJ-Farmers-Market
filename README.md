@@ -144,6 +144,3 @@ yarn build
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## 👥 Contributors
-
-- [Your Name](https://github.com/yourusername)
